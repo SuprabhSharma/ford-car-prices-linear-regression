@@ -43,10 +43,4 @@ Proper encoding and preprocessing significantly improve R² score and model reli
 
 Good data preparation matters more than complex models in regression problems.
 
-If you want, I can:
 
-🔹 Make it LinkedIn-post ready
-
-🔹 Add results table
-
-🔹 Rewrite it for ATS & recruiters
